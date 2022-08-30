@@ -70,3 +70,7 @@ bundle.zip
 cypress/videos
 cypress/screenshots
 dist-tests/**
+
+# ignore oidc fetch files
+public/OidcServiceWorker.js
+public/OidcTrustedDomains.js
