@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@axa-fr/react-oidc": "^6.10.8",
-    "@reduxjs/toolkit": "^1.9.0",
+    "@reduxjs/toolkit": "^1.9.3",
     "deepmerge": "^4.2.2",
     "i18next-http-backend": "^2.0.1",
     "luxon": "^3.1.0",
